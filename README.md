@@ -4,3 +4,5 @@ In this tutorial I use the Social Proxy scraper API
 I also used the AI Geo Lookup by the Social Proxy
 I install a Node Virtual Environment 
 I make us of Leaflet.js to build interactive Map on OpenMapStreet
+Tracker by Redmi 13 
+neeroztiwaryyy@gmail.com tracked 
