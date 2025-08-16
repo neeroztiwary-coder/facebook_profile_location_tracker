@@ -4,3 +4,8 @@ In this tutorial I use the Social Proxy scraper API
 I also used the AI Geo Lookup by the Social Proxy
 I install a Node Virtual Environment 
 I make us of Leaflet.js to build interactive Map on OpenMapStreet
+https://www.facebook.com/share/1EDJDSV7jV/
+address Nadipur area 
+Device Redmi 13A
+Active on Facebook tiktok and other social networks 
+Yuiobdue jsue 872 street
